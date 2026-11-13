@@ -1,4 +1,4 @@
-# Quiz Lab Struktur Data
+# Quiz Lab 4 Struktur Data
 
 ## Identitas
 
