@@ -44,13 +44,13 @@ Program ini mengimplementasikan Hash Table menggunakan metode Double Hashing unt
 
 ```text
 Quiz-Lab-Struktur-Data/
-│
-├── Quiz_no_1.cpp
-├── Quiz_no_2.cpp
-├── Quiz_no_3.cpp
-├── Quiz_no_4.cpp
-│
-└── README.md
+
+Quiz_no_1.cpp
+Quiz_no_2.cpp
+Quiz_no_3.cpp
+Quiz_no_4.cpp
+
+README.md
 ```
 
 ## Cara Menjalankan Program
